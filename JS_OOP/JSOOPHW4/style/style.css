@@ -1,0 +1,53 @@
+body{
+	font-family: "Open Sans", "Roboto", tahoma, verdana, futura, helvetica, sans-serif;
+	background-color: #EDEDED;
+}
+button{
+	background-color : white;
+	font-size : 22px;
+	margin-bottom: 10px;
+}
+button, input{
+        height: 50px;
+        width: calc(50% - 10px);
+        border : 1px solid black;
+        box-sizing: border-box;
+        margin: 5px;
+        padding: 0px;
+}
+input{
+	box-sizing: border-box;
+}
+.item *{
+	vertical-align: middle;
+}
+.checkbox{
+	height: 50px;
+	width: 50px;
+}
+#target{
+	margin-left : auto;
+	margin-right: auto;
+	width: 50%;
+	background-color: #DADADA;
+	padding: 10px;
+}
+.checked{
+	background-color: limegreen;
+}
+.container{
+	border: 1px solid black;
+}
+.section {
+	background-color: ivory;
+	border: 1px solid black;
+	box-sizing: border-box;
+	margin: 5px;
+}
+h3{
+	font-size: 30pt;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	/*margin-right: 10%;*/
+}

@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "CountryApp": {
+            "applicationId": "X2nFLLg63SgpGpbJQhkUWOSKPpkODm3NqFrbKzMj", 
+            "masterKey": "YiLRbfKOIsevhFeKwmKMF3cat1xYlw5AYHPBZmTz"
+        }, 
+        "_default": {
+            "link": "CountryApp"
+        }
+    }
+}

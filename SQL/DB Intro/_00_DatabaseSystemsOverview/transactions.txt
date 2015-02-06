@@ -1,0 +1,5 @@
+transactions.txt
+
+Transactions are a system used to ensure that an operation either completes entirely or does not complete at all.
+Transactions also help with concurrent acess. A Database that's being modified and acessed at the same time allows configuration to either halt the acess request until the modification is complete or to retun an older version of the requested data, depending on use case.
+For example, in a situation where a client wants to confirm a payment, but the database's power is terminated mid-operation, transactions make sure that the client's money is not transfered.

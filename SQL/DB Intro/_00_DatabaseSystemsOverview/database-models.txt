@@ -1,0 +1,7 @@
+Relational Database Model
+
+Tree (Hierarchical) Database Model
+	Records within records within records.
+
+Radial Database model
+

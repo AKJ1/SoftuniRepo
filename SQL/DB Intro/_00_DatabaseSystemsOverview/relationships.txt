@@ -1,0 +1,7 @@
+relationships.txt
+
+There's three types of relationships
+
+One-To-One, wherein a single row can reference another row from another table.
+One-To-Many, wherein a single row can refernce a multitude of rows from another table but a single row from the foregin table cannot be related to more than one row from the table that's referencing it,
+Many-To-Many, wherein a single row can refernce a multitude of rows from another table but those foregin rows can be referenced by other rows of the primary table.

@@ -1,0 +1,5 @@
+difference-primary-foregin-key
+
+A primary key a single column containing a unique piece of data used for acessing rows in a table. 
+
+A Foregin key is a single or collation of collumns used to reference a row in a table from another table ( With which it has a relationship ).

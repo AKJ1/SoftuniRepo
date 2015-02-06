@@ -1,0 +1,3 @@
+database-normalization.txt
+
+A normalized schema's concept is to reduce data redundancy as much as possible. Having the same data recorded multiple times is inefficient and depending on the conditions can cause a slowdown and take up storage space. A normalized database does not exhibit those problems.

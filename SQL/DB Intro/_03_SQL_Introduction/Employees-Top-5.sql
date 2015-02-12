@@ -1,0 +1,1 @@
+Select TOP 5 FirstName, LastName, Salary From Employees order by Salary desc

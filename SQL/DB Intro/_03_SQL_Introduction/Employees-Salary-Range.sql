@@ -1,0 +1,1 @@
+Select Salary From Employees Where Salary < 30000 AND Salary > 20000

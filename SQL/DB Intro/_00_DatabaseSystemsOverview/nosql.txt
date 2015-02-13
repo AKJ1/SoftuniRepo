@@ -1,0 +1,1 @@
+NoSQL are types of databases that do not involve the traditional tablet-based database model and do no use SQL as a querying language. Predominantly they rely either on their own query language or on using JSON object as queries. NoSQL databases are MongoDB, Cassandra, CouchDB and others.

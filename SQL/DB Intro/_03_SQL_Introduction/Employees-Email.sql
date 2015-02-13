@@ -1,0 +1,1 @@
+Select CONCAT(Employees.FirstName, '.', Employees.LastName, '@softuni.bg') as Email From Employees

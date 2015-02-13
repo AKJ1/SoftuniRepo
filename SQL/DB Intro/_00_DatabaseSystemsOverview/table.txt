@@ -1,0 +1,3 @@
+table.txt
+
+A table is an organized collection of data consisting of a pre-specified number of columns and dynamically determined (by number of entities) number of rows. Each column can have an individually specified data type and schema and not every column is a required field. Each table has a specific column that is required and is called a primary key, it is used as a unique identified used to acess the rows in the table.

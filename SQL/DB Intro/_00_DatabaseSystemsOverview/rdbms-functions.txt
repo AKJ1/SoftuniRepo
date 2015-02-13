@@ -1,0 +1,3 @@
+rdbms-functions.txt
+
+RDBMS means a Relational Database Management System and it represents a model wherein a database's tables are related to each other by unique primary and foregin keys. Relatins come in three types - One-to-Many, One-To-One and Many-to-Many. Most Modern SQL databases such as MSSQL, MySQL, Oracle utilize the relational model. The main functions of a DBMS are to Create, Read, Update and Delete while whe main functions of an RDBMS.

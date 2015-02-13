@@ -1,0 +1,1 @@
+Select FirstName, LastName, Salary From Employees Where Salary > 50000 order by Salary desc

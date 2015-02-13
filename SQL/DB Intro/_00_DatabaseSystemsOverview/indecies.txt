@@ -1,0 +1,4 @@
+indecies.txt
+
+Indexed databases allow for much faster acess to the data by indexing searches. 
+Indexing can sometimes be problematic since it returns old data, however in many cases this is not a problem and compared to the speed loss in many cases is preferential.

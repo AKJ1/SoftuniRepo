@@ -1,0 +1,2 @@
+Select Employees.FirstName, Employees.LastName, Concat(Managers.FirstName, Managers.LastName) as 'Manager' From Employees
+Left outer join Employees as Managers on Managers.EmployeeID = Employees.ManagerID
